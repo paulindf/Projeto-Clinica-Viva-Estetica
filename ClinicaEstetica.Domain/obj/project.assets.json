@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo.rita\\source\\repos\\ClinicaEstetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
+      "projectUniqueName": "D:\\_pessoal\\meus desenvolvimentos\\Projeto Clinica Viva Estetica\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
       "projectName": "ClinicaEstetica.Domain",
-      "projectPath": "C:\\Users\\paulo.rita\\source\\repos\\ClinicaEstetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
+      "projectPath": "D:\\_pessoal\\meus desenvolvimentos\\Projeto Clinica Viva Estetica\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
       "packagesPath": "C:\\Users\\paulo.rita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo.rita\\source\\repos\\ClinicaEstetica\\ClinicaEstetica.Domain\\obj\\",
+      "outputPath": "D:\\_pessoal\\meus desenvolvimentos\\Projeto Clinica Viva Estetica\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
