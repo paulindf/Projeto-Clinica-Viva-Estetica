@@ -7,3 +7,12 @@ C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\net
 C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfo.cs
 C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
 C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.deps.json
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.csprojAssemblyReference.cache
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.csproj.CoreCompileInputs.cache
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfoInputs.cache
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfo.cs
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
+D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb

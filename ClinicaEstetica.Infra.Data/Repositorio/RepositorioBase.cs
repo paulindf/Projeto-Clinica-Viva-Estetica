@@ -35,6 +35,5 @@ namespace ClinicaEstetica.Infra.Data.Repositorio
         public IEnumerable<TEntidade> SelecionarTodosNoTracking() => contexto.Set<TEntidade>().AsNoTracking().ToList();
 
         public IEnumerable<TEntidade> SelecionarTodos() => contexto.Set<TEntidade>().ToList();
-
     }
 }
