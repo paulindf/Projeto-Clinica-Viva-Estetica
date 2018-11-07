@@ -1,0 +1,9 @@
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.deps.json
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.csprojAssemblyReference.cache
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfoInputs.cache
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfo.cs
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
+C:\Users\pauli\source\repos\ClinicaEstetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb
