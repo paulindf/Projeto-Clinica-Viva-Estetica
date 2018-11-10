@@ -16,3 +16,12 @@ D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-
 D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfo.cs
 D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
 D:\_pessoal\meus desenvolvimentos\Projeto Clinica Viva Estetica\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.deps.json
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\bin\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.csprojAssemblyReference.cache
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfoInputs.cache
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.AssemblyInfo.cs
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.dll
+C:\Users\pauli\Source\Repos\Projeto-Clinica-Viva-Estetica\ClinicaEstetica.Domain\obj\Debug\netstandard2.0\ClinicaEstetica.Domain.pdb

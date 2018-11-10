@@ -176,23 +176,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paulo.rita\\.nuget\\packages\\": {},
+    "C:\\Users\\pauli\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_pessoal\\meus desenvolvimentos\\Projeto Clinica Viva Estetica\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\pauli\\Source\\Repos\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
       "projectName": "ClinicaEstetica.Domain",
-      "projectPath": "D:\\_pessoal\\meus desenvolvimentos\\Projeto Clinica Viva Estetica\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
-      "packagesPath": "C:\\Users\\paulo.rita\\.nuget\\packages\\",
-      "outputPath": "D:\\_pessoal\\meus desenvolvimentos\\Projeto Clinica Viva Estetica\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\obj\\",
+      "projectPath": "C:\\Users\\pauli\\Source\\Repos\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\ClinicaEstetica.Domain.csproj",
+      "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pauli\\Source\\Repos\\Projeto-Clinica-Viva-Estetica\\ClinicaEstetica.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paulo.rita\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
